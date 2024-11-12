@@ -1,4 +1,4 @@
-// define the asset ID of your uploaded .tif file (bathymetry raster which defines the AOI was uploaded to GEE beforehand)
+// define asset ID of uploaded .tif file (bathymetry raster which defines the AOI was uploaded to GEE beforehand)
 var tifAsset = 'users/exampljo/24-04-29_Bathy_MLWS_5m_raster_aoi_clipped';
 
 // load bathymetry raster and get its extent
